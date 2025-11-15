@@ -10,12 +10,6 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
-    <style>
-      .title span {
-        font-size: 1.5em; /* Kích thước chữ 1.5em */
-      }
-    </style>
-    <title>Valentine</title>
   </head>
   <body>
     <main class="container">
@@ -29,7 +23,5 @@
         <span>tối học hoá mệt ghê</span>
       </p>
     </main>
-
-    <script type="module" src="script.js"></script>
   </body>
 </html>
