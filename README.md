@@ -19,8 +19,8 @@
         alt="Picture of a cat"
       />
       <p class="title" style="font: -30px">
-        Đang làm gì vậy bro<br />
-        <span>tối học hoá mệt ghê</span>
+        Hằng đang làm gì vậyyy<br />
+        <span></span>
       </p>
     </main>
   </body>
